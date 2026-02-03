@@ -142,7 +142,7 @@ export default function LoginPage() {
                     </button>
 
                     <p className="mt-6 text-center text-xs text-[var(--color-text-muted)]">
-                        Default credentials: <span className="font-mono text-[var(--color-text-secondary)]">admin / 0000</span>
+                        Default credentials: <span className="font-mono text-[var(--color-text-secondary)]">admin / 70988</span>
                     </p>
                 </form>
             </div>
