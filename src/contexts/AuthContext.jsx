@@ -80,7 +80,7 @@ function authReducer(state, action) {
 // Admin credentials (hardcoded as per requirements)
 const ADMIN_CREDENTIALS = {
     username: 'admin',
-    password: '0000'
+    password: '70988'
 };
 
 const SESSION_KEY = 'chancity_admin_session';
